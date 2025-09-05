@@ -4,5 +4,5 @@
 💻 Fullstack (Angular, Vue.js, NestJS)  
 
 ## 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,js,ts,html,tailwind,bootstrap,css,nestjs,nodejs,py,mongodb,mysql,docker,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,js,ts,html,tailwind,bootstrap,css,nestjs,nodejs,py,mongodb,docker,postman,figma)](https://skillicons.dev)
 
