@@ -1,5 +1,4 @@
-# Hi, 👋  
-# my name is Michael and i'am an aspiring fullstack dev 
+# Hi, my name is Michael and i'am an aspiring fullstack dev 👋  
 
 🎓 B.Sc. Media Engineering  
 💻 Fullstack (Angular, Vue.js, NestJS, Node.js/Express)  
